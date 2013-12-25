@@ -1,0 +1,93 @@
+indian:
+  0:
+    name: 'zero'
+    unqualified: true
+  1:
+    name: 'one'
+    unqualified: true
+  2:
+    name: 'two'
+    unqualified: true
+  3:
+    name: 'three'
+    unqualified: true
+  4:
+    name: 'four'
+    unqualified: true
+  5:
+    name: 'five'
+    unqualified: true
+  6:
+    name: 'six'
+    unqualified: true
+  7:
+    name: 'seven'
+    unqualified: true
+  8:
+    name: 'eight'
+    unqualified: true
+  9:
+    name: 'nine'
+    unqualified: true
+  10:
+    name: 'ten'
+    unqualified: true
+  11:
+    name: 'eleven'
+    unqualified: true
+  12:
+    name: 'twelve'
+    unqualified: true
+  13:
+    name: 'thirteen'
+    unqualified: true
+  14:
+    name: 'fourteen'
+    unqualified: true
+  15:
+    name: 'fifteen'
+    unqualified: true
+  16:
+    name: 'sixteen'
+    unqualified: true
+  17:
+    name: 'seventeen'
+    unqualified: true
+  18:
+    name: 'eighteen'
+    unqualified: true
+  19:
+    name: 'nineteen'
+    unqualified: true
+  20:
+    name: 'twenty'
+    unqualified: true
+  30:
+    name: 'thirty'
+    unqualified: true
+  40:
+    name: 'forty'
+    unqualified: true
+  50:
+    name: 'fifty'
+    unqualified: true
+  60:
+    name: 'sixty'
+    unqualified: true
+  70:
+    name: 'seventy'
+    unqualified: true
+  80:
+    name: 'eighty'
+    unqualified: true
+  90:
+    name: 'ninety'
+    unqualified: true
+  100:
+    name: 'hundred'
+  1000:
+    name: 'thousand'
+  100000:
+    name: 'lakh'
+  10000000:
+    name: 'crore'
